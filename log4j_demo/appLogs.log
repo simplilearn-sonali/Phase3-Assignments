@@ -1,0 +1,26 @@
+2021-04-29 18:52:59 Thursday -0400  EDT INFO  Log4jMain:16 - Hello from INFO
+2021-04-29 18:52:59 Thursday -0400  EDT WARN  Log4jMain:17 - Hello from WARN
+2021-04-29 18:52:59 Thursday -0400  EDT ERROR Log4jMain:18 - Hello from ERROR
+2021-04-29 18:52:59 Thursday -0400  EDT FATAL Log4jMain:19 - Hello from FATAL
+2021-04-29 18:56:06 Thursday -0400  EDT INFO  Log4jMain:16 - Hello from INFO
+2021-04-29 18:56:06 Thursday -0400  EDT WARN  Log4jMain:17 - Hello from WARN
+2021-04-29 18:56:06 Thursday -0400  EDT ERROR Log4jMain:18 - Hello from ERROR
+2021-04-29 18:56:06 Thursday -0400  EDT FATAL Log4jMain:19 - Hello from FATAL
+2021-04-29 18:57:31 Thursday -0400  EDT INFO  Log4jMain:16 - Hello from INFO
+2021-04-29 18:57:31 Thursday -0400  EDT WARN  Log4jMain:17 - Hello from WARN
+2021-04-29 18:57:31 Thursday -0400  EDT ERROR Log4jMain:18 - Hello from ERROR
+2021-04-29 18:57:31 Thursday -0400  EDT FATAL Log4jMain:19 - Hello from FATAL
+2021-04-29 18:57:31 Thursday -0400  EDT INFO  MyService:10 - hello from service1 with val : test service1
+2021-04-29 18:57:31 Thursday -0400  EDT INFO  MyService:11 - service1 execution completed
+2021-04-29 18:57:31 Thursday -0400  EDT INFO  MyService:15 - hello from service2 with val : test service2
+2021-04-29 18:57:31 Thursday -0400  EDT INFO  MyService:16 - service2 execution completed
+2021-04-29 18:59:07 Thursday -0400  EDT TRACE Log4jMain:14 - Hello from TRACE
+2021-04-29 18:59:07 Thursday -0400  EDT DEBUG Log4jMain:15 - Hello from DEBUG
+2021-04-29 18:59:07 Thursday -0400  EDT INFO  Log4jMain:16 - Hello from INFO
+2021-04-29 18:59:07 Thursday -0400  EDT WARN  Log4jMain:17 - Hello from WARN
+2021-04-29 18:59:07 Thursday -0400  EDT ERROR Log4jMain:18 - Hello from ERROR
+2021-04-29 18:59:07 Thursday -0400  EDT FATAL Log4jMain:19 - Hello from FATAL
+2021-04-29 18:59:07 Thursday -0400  EDT INFO  MyService:10 - hello from service1 with val : test service1
+2021-04-29 18:59:07 Thursday -0400  EDT INFO  MyService:11 - service1 execution completed
+2021-04-29 18:59:07 Thursday -0400  EDT INFO  MyService:15 - hello from service2 with val : test service2
+2021-04-29 18:59:07 Thursday -0400  EDT INFO  MyService:16 - service2 execution completed
